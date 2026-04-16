@@ -1,2 +1,2 @@
 # New-java-application
-This repository is for practicing tomcat and nexus.
+This repository is for practicing tomcat and nexus..
