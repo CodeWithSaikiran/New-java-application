@@ -6,6 +6,11 @@
   <artifactId>my-web-app</artifactId>
   <packaging>war</packaging>
   <version>1.0.2</version>
+ <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+ <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+</properties>
 
   <dependencies>
     <dependency>
